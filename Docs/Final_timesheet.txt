@@ -1,0 +1,139 @@
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+ShadowProtect SPX
+
+  - EXAMPLE DEVICE shows low availability on:
+AV Status
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+AV Status
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+AV Status
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status - Exchange
+Patch Status v2
+Reboot Required
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+AV Status
+dotNET Version
+Patch Status - Status shows service disabled
+Patch Status v2
+PowerShell Version
+ShadowProtect SPX
+ShadowProtect SPX Job Log Health
+ShadowProtect SPX License Key
+ShadowProtect SPX Remote Management
+Uptime
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+ShadowProtect SPX License Key
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+Reboot Required
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+System Warranty
+
+  - EXAMPLE DEVICE shows low availability on:
+AV Status
+Disk
+Patch Status - Status shows service disabled
+Patch Status v2
+ShadowProtect SPX
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+ShadowProtect SPX
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2
+
+  - EXAMPLE DEVICE shows low availability on:
+Patch Status - Status shows service disabled
+Patch Status v2

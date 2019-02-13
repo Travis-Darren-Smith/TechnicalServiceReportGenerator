@@ -1,0 +1,22 @@
+Technical Summary Report
+Customer:
+Prepared on:
+Period:
+Days of Week:
+Daily Hours:
+Devices
+Page
+Computer Transition Services
+2018
+2019
+Service Availability
+Synopsis This Service Availability report provides a basic understanding of the stability of the network and devices.  It is a combination of Normal and Warning status and defines all other states as unavailable.  It is a great report to quickly understand how available the network infrastructure has functioned over the time frame of the report.
+Overview
+When assessing network health and performance it is important to look at many factors that may affect
+performance and availability.  This report is a collection of data gathered from the most important devices 
+within your infrastructure, which contribute to the overall performance and availability of your applications. 
+It illustrates the overall usage of the server environment and the metrics associated with servers - CPU 
+utilization, memory utilization, and disk space utilization.  It also provides an understanding of the usage 
+of the bandwidth available for network traffic.  
+This report is designed to provide a snapshot of the capacity utilization of the network and help 
+management plan for the needs of today and the future.

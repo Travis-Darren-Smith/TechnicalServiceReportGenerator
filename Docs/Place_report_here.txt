@@ -1,0 +1,1262 @@
+EXAMPLE DEVICE Service Name % Available
+APC Status 100.0%
+APC UPS - Temperature 100.0%
+Connectivity 100.0%
+EXAMPLE DEVICE 
+Service Name % Available
+APC Status 100.0%
+Connectivity 100.0%
+EXAMPLE DEVICE  Service Name % Available
+APC Status 100.0%
+APC UPS - Temperature 100.0%
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Connectivity (VMware) 100.0%
+CPU (VMware) 100.0%
+Datastore (VMware) 100.0%
+Fan Status (VMware) 100.0%
+Licensing Status (VMware) 100.0%
+Logical Drive (VMware) 100.0%
+Maintenance Mode (VMware)
+100.0%
+Memory (VMware) 100.0%
+Memory Status (VMware) 100.0%
+NIC Status (VMware) 100.0%
+Power Consumption (VMware)
+100.0%
+Power Supply (VMware) 100.0%
+SSH 100.0%
+Temperature Status (VMware)
+100.0%
+Synopsis This Service Availability report provides a basic understanding of the stability of the network and devices.  It is a combination of Normal and Warning status and defines all other states as unavailable.  It is a great report to quickly understand how available the network infrastructure has functioned over the time frame of the report.
+Page 3 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Connectivity (VMware) 100.0%
+CPU (VMware) 100.0%
+Datastore (VMware) 100.0%
+Fan Status (VMware) 100.0%
+Licensing Status (VMware) 100.0%
+Logical Drive (VMware) 100.0%
+Maintenance Mode (VMware)
+100.0%
+Memory (VMware) 100.0%
+Memory Status (VMware) 100.0%
+NIC Status (VMware) 100.0%
+Power Consumption (VMware)
+100.0%
+Power Supply (VMware) 100.0%
+SSH 100.0%
+Temperature Status (VMware)
+100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+Page 4 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+PowerShell Version 100.0%
+Reboot Required 96.0%
+ShadowProtect SPX 0.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+100.0%
+SQL Server Locks (WMI) 100.0%
+SQL TCP Availability 100.0%
+SQL Transaction Information
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 5 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 0.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 36.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 99.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 6 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 0.0%
+Connectivity 100.0%
+CPU 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Uptime 100.0%
+Windows 2008 Process Usage
+100.0%
+Windows Service 97.0%
+Page 7 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 52.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+Patch Status v2 33.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Uptime 100.0%
+Windows Service 96.0%
+Page 8 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+GPO Deployment Script Health
+100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 33.0%
+PowerShell Version 100.0%
+Process 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 99.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 9 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Exchange Back Pressure 100.0%
+Exchange SSL Expiration 100.0%
+HTTPS 100.0%
+IMAP 100.0%
+Memory 100.0%
+Patch Status 0.0%
+Patch Status - Exchange 69.0%
+Patch Status v2 56.0%
+PowerShell Version 100.0%
+Reboot Required 77.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Uptime 100.0%
+Windows Service 98.0%
+Page 10 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 10.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 96.0%
+Page 11 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 39.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 99.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 12 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 39.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 96.0%
+Page 13 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Connectivity (VMware) 100.0%
+CPU (VMware) 100.0%
+Datastore (VMware) 100.0%
+Fan Status (VMware) 100.0%
+Licensing Status (VMware) 100.0%
+Logical Drive (VMware) 100.0%
+Maintenance Mode (VMware)
+100.0%
+Memory (VMware) 100.0%
+Memory Status (VMware) 100.0%
+NIC Status (VMware) 100.0%
+Power Consumption (VMware)
+100.0%
+Power Supply (VMware) 100.0%
+SSH 100.0%
+System Warranty 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Connectivity (VMware) 100.0%
+CPU (VMware) 100.0%
+Datastore (VMware) 100.0%
+Licensing Status (VMware) 100.0%
+Logical Drive (VMware) 100.0%
+Maintenance Mode (VMware)
+100.0%
+Memory (VMware) 100.0%
+Memory Status (VMware) 100.0%
+NIC Status (VMware) 100.0%
+Power Consumption (VMware)
+100.0%
+SSH 100.0%
+System Warranty 100.0%
+Page 14 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+Patch Status 0.0%
+Patch Status v2 33.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Uptime 100.0%
+Windows Service 93.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Page 15 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 20.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+96.0%
+SQL Server Locks (WMI) 100.0%
+SQL Transaction Information
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 96.0%
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Page 16 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+Defrag Disabled 100.0%
+DHCP Active Queue Length 100.0%
+DHCP Pool Addresses Remaining
+100.0%
+DHCP Server 100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 43.0%
+Physical Drive (Dell) 99.0%
+Power Supply (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+RAID Status (Dell) - No Battery
+100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 99.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+99.0%
+SQL Server Locks (WMI) 100.0%
+SQL TCP Availability 100.0%
+Page 17 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+SQL Transaction Information
+100.0%
+System Warranty 100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 39.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+100.0%
+SQL Server Locks (WMI) 100.0%
+SQL TCP Availability 100.0%
+SQL Transaction Information
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 97.0%
+Page 18 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 0.0%
+Connectivity 100.0%
+dotNET Version 0.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+PowerShell Version 0.0%
+ShadowProtect SPX 0.0%
+ShadowProtect SPX Job Log Health
+0.0%
+ShadowProtect SPX License Key
+0.0%
+ShadowProtect SPX Remote Management
+0.0%
+Uptime 0.0%
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+Patch Status 0.0%
+Patch Status v2 33.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+0.0%
+ShadowProtect SPX Remote Management
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 19 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+100.0%
+SQL Server Locks (WMI) 100.0%
+SQL TCP Availability 100.0%
+SQL Transaction Information
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 20 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Disk 100.0%
+Memory 100.0%
+Patch Status v2 39.0%
+Reboot Required 100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+Patch Status 0.0%
+Patch Status v2 16.0%
+PowerShell Version 100.0%
+Reboot Required 77.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 21 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 8.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Page 22 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+APC Status 94.0%
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 23 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 38.0%
+PowerShell Version 100.0%
+Process 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+CPU Status (Dell) 100.0%
+Defrag Disabled 100.0%
+Page 24 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 36.0%
+Physical Drive (Dell) 100.0%
+Power Supply (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+RAID Status (Dell) - No Battery
+100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+System Battery Status (Dell) 100.0%
+System Warranty 100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 25 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+CPU Status (Dell) 100.0%
+Defrag Disabled 100.0%
+DHCP Pool Addresses Remaining
+100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+Patch Status 0.0%
+Patch Status v2 39.0%
+Physical Drive (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 89.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+System Battery Status (Dell) 100.0%
+System Warranty 100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 26 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+DHCP Active Queue Length 100.0%
+DHCP Pool Addresses Remaining
+100.0%
+DHCP Server 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Memory 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 33.0%
+PowerShell Version 100.0%
+Reboot Required 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 27 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Hyper-V 100.0%
+Hyper-V 2012 Guest Status 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 33.0%
+Physical Drive (Dell) 100.0%
+Power Supply (Dell) 100.0%
+PowerShell Version 100.0%
+RAID Status (Dell) 100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+System Warranty 0.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Page 28 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Cisco Hardware Health 100.0%
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Memory (Cisco) 100.0%
+SSH 100.0%
+EXAMPLE DEVICE Service Name % Available
+Cisco Hardware Health 100.0%
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Memory (Cisco) 100.0%
+SSH 100.0%
+EXAMPLE DEVICE Service Name % Available
+Cisco Hardware Health 100.0%
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Memory (Cisco) 100.0%
+SSH 100.0%
+EXAMPLE DEVICE Service Name % Available
+Cisco Hardware Health 100.0%
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Memory (Cisco) 100.0%
+SSH 100.0%
+EXAMPLE DEVICE Service Name % Available
+Cisco Hardware Health 100.0%
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Memory (Cisco) 100.0%
+SSH 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Page 29 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fortinet - CPU 100.0%
+Fortinet - Memory 100.0%
+Fortinet - Sessions 100.0%
+FW-Fortigate 100.0%
+Traffic 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+Page 30 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fortinet - CPU 100.0%
+Fortinet - Memory 100.0%
+Fortinet - Sessions 100.0%
+FW-Fortigate 100.0%
+Traffic 100.0%
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 0.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 67.0%
+dotNET Version 100.0%
+Fan (HP) 100.0%
+Memory 100.0%
+Memory Status (HP) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 0.0%
+Physical Drive (HP) 100.0%
+Power Supply (HP) 100.0%
+PowerShell Version 100.0%
+RAID Status (HP) 100.0%
+Reboot Required 100.0%
+Server Temperature (HP) 100.0%
+ShadowProtect Backup Age 97.0%
+ShadowProtect SPX 0.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+SQL Database Information (WMI)
+100.0%
+SQL Memory Manager (WMI)
+100.0%
+SQL Server - Buffer Manager
+97.0%
+SQL Server Locks (WMI) 100.0%
+Page 31 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+SQL Transaction Information
+100.0%
+StorageCraft ImageManager
+95.0%
+StorageCraft ImageManager Global Retention Settings
+100.0%
+StorageCraft ImageManager Managed Folder List
+100.0%
+StorageCraft ImageManager Script Folder Count
+100.0%
+System Health (HP) 100.0%
+System Warranty 100.0%
+Uptime 100.0%
+Veeam Failed Jobs 100.0%
+Windows Service 98.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+CPU (Cisco) 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Stack Status (Cisco StackWise)
+100.0%
+Switch Status (Cisco StackWise)
+100.0%
+Temperature Status (Cisco) 100.0%
+Traffic 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE
+Service Name % Available
+Connectivity 100.0%
+Fortinet - CPU 100.0%
+Fortinet - Memory 100.0%
+Fortinet - Sessions 100.0%
+FW-Fortigate 100.0%
+Traffic 100.0%
+Page 32 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE Service Name % Available
+Connectivity 100.0%
+Fan Status (Cisco) 100.0%
+Memory (Cisco) 100.0%
+Power Supply (Cisco) 100.0%
+Temperature Status (Cisco) 100.0%
+EXAMPLE DEVICE
+Service Name % Available
+Connectivity 100.0%
+Fortinet - CPU 100.0%
+Fortinet - Memory 100.0%
+Fortinet - Sessions 100.0%
+FW-Fortigate 100.0%
+Traffic 100.0%
+Page 33 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+dotNET Version 100.0%
+Fan (HP) 100.0%
+Memory 100.0%
+Memory Status (HP) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 20.0%
+Physical Drive (HP) 100.0%
+Power Supply (HP) 100.0%
+PowerShell Version 100.0%
+RAID Status (HP) 100.0%
+Reboot Required 100.0%
+Server Temperature (HP) 100.0%
+ShadowProtect Backup Age 100.0%
+ShadowProtect SPX 0.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+StorageCraft ImageManager
+100.0%
+StorageCraft ImageManager Global Retention Settings
+100.0%
+StorageCraft ImageManager Managed Folder List
+100.0%
+StorageCraft ImageManager Script Folder Count
+100.0%
+System Health (HP) 100.0%
+System Warranty 100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+Page 34 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+CPU Status (Dell) 100.0%
+Defrag Disabled 100.0%
+DHCP Pool Addresses Remaining
+100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 16.0%
+Physical Drive (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+System Battery Status (Dell) 100.0%
+System Warranty 100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Page 35 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+CPU Status (Dell) 100.0%
+Defrag Disabled 100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 56.0%
+Physical Drive (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 100.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+System Battery Status (Dell) 100.0%
+System Warranty 100.0%
+Page 36 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Active Directory 100.0%
+Active Directory 2012 - DRA (WMI)
+100.0%
+Agent Status 100.0%
+AV Status 100.0%
+Connectivity 100.0%
+CPU 100.0%
+CPU Status (Dell) 100.0%
+Defrag Disabled 100.0%
+DHCP Pool Addresses Remaining
+100.0%
+Disk 100.0%
+DNS 100.0%
+DNS Performance Counters 100.0%
+dotNET Version 100.0%
+Fan (Dell) 100.0%
+Logical Drive (Dell OM 2.2) 100.0%
+Memory 100.0%
+Memory Status (Dell) 100.0%
+MS17-010 (wannacry) Patch Installed
+100.0%
+Patch Status 0.0%
+Patch Status v2 36.0%
+Physical Drive (Dell) 100.0%
+PowerShell Version 100.0%
+Process 100.0%
+RAID Status (Dell) 100.0%
+Reboot Required 100.0%
+Server Temperature (Dell) 100.0%
+ShadowProtect SPX 98.0%
+ShadowProtect SPX Job Log Health
+100.0%
+ShadowProtect SPX License Key
+100.0%
+ShadowProtect SPX Remote Management
+100.0%
+SNMP 100.0%
+Page 37 of 207
+Copyright 2019 Computer Transition Services, Inc.1/28/2019
+System Battery Status (Dell) 100.0%
+System Warranty 100.0%
+Trend Cloud TMComm.sys Version
+100.0%
+Uptime 100.0%
+Windows Service 100.0%
+EXAMPLE DEVICE Service Name % Available
+Probe Status 100.0%
